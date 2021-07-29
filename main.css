@@ -1,0 +1,83 @@
+.rasel{
+    background-color: #FFF9F4;
+}
+.image img{
+    width: 450px;
+    height: auto;
+    margin-top: 70PX;
+    margin-left: 100px;
+    margin-bottom: 40px;
+}
+.bgc{
+    background-color: #F1F1F1;
+}
+.shop{
+    margin-top: 130px;
+    margin-bottom: 100px;
+}
+.inf-1{
+    height: 100px;
+}
+.info-1 img{
+    width: 80px;
+    height: auto;
+    
+}
+.info-2 img{
+    width: 80px;
+    height: auto;
+}
+.shop2{
+    margin-top: 16px;
+}
+.info-3 img{
+    width: 80px;
+    height: auto;
+}
+.shop3{
+    margin-top: 16px;
+}
+h4{
+    font-weight: bold;
+}
+.ima img{
+width: 500px;
+height: auto;
+margin-top: 20px;
+
+
+}
+/* media quary */
+@media only screen and (max-width: 600px) {
+    
+    .image img{
+        width: 100%;
+        height: auto;
+        margin-left: 0%;
+    }
+    .nike h1{
+        text-align: justify;
+        text-align: center;
+      }
+  .nike p{
+    text-align: justify;
+    text-align: center;
+  }
+  .bbtn{
+      margin-right: 0%;
+   margin-left: 130px;
+   margin-bottom: 20px;
+   
+  }
+  .ima{
+      margin-top: 30px;
+  }
+    .ima img{
+        width: 100%;
+        height: auto;
+        margin-left: 0%;
+    }
+    .inf-1{
+        height: auto;
+    }
+}
